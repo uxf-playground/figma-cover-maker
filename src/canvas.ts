@@ -3,8 +3,6 @@ figma.showUI(__html__, { themeColors: true, width: 240, height: 384 });
 figma.ui.onmessage = async (msg) => {
   if (msg.type === 'generate-cover') {
     const { title, description, jiraId, includeYYQQ, status, theme } = msg;
-
-    // Calculate YYQQ
     const currentDate = new Date();
     const year = currentDate.getFullYear().toString().slice(-2);
     const quarter = Math.floor((currentDate.getMonth() + 3) / 3);
