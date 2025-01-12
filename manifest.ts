@@ -1,8 +1,6 @@
-// https://www.figma.com/plugin-docs/manifest/
-
 export default {
-  name: "Figma Plugin React",
-  id: "0000000000000000000",
+  name: "Cover Maker",
+  id: "1460274736428830766",
   api: "1.0.0",
   editorType: ["figma", "figjam"],
   main: "./canvas.js",
