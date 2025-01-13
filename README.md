@@ -1,7 +1,7 @@
 ![cover](src/assets/cover.png)
 
-# Figma Cover Maker
-A simple cover maker for Figma.
+# Cover Maker
+A simple cover generator for Figma.
 
 - Input your project title and description
 - Adds year/quarter details
