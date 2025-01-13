@@ -8,4 +8,4 @@ A simple cover maker for Figma.
 - Set project status
 - Add Jira ID to display on the cover
 
-[Open in Figma](https://www.figma.com/community/plugin/1460274736428830766/cover-maker)
+[Install Plugin](https://www.figma.com/community/plugin/1460274736428830766/cover-maker) (*´罒`*)ゞ
